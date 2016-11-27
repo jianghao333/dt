@@ -1,0 +1,126 @@
+Learn HTML & CSS: Part I
+
+Overview
+
+HTML is the the foundation behind all web pages. It's used to add structure and form to text, images, and more. CSS is the language used to style HTML content. In this first course, you'll learn the fundamentals of both languages so that you can create visually appealing web pages.
+
+Syllabus
+
+1
+HTML Fundamentals
+1.1Structure
+
+what you've learned so far:
+
+-The <!DOCTYPE html> declaration should always be the first line of code in your HTML files.
+-The <html> element will contain all of your HTML code.
+-Information about the web page, like the title, belongs within the <head> of the page.
+-You can add a title to your web page by using the <title> element, inside of the head.
+-Code for visible HTML content will be placed inside of the <body> element.
+
+
+Interactive Lesson
+PRO
+PRO
+HTML Fundamentals
+Multiple Choice Quiz
+External Resources
+Create and View a Web Page on Your Computer
+5 mins read
+
+2
+HTML Content
+2.1Common HTML Elements
+
+Interactive Lesson
+PRO
+PRO
+HTML Content
+Multiple Choice Quiz
+External Resources
+Accessibility and HTML
+5 mins read
+
+3
+CSS Fundamentals
+The CSS Setup
+Interactive Lesson
+Basic CSS Structure & Syntax
+Interactive Lesson
+PRO
+PRO
+CSS Fundamentals
+Multiple Choice Quiz
+External Resources
+Inline Styles in HTML
+10 mins read
+
+4
+Styling with CSS
+Colors
+Interactive Lesson
+Fonts
+Interactive Lesson
+PRO
+PRO
+CSS Colors
+Multiple Choice Quiz
+PRO
+PRO
+CSS Fonts
+Multiple Choice Quiz
+
+5
+Organizing HTML & CSS
+Classes, IDs, & Divs
+Interactive Lesson
+PRO
+PRO
+IDs, Classes, Divs
+Multiple Choice Quiz
+External Resources
+Classes vs IDs
+5 mins read
+
+6
+The CSS Box Model
+Understanding the Box Model
+Interactive Lesson
+Borders
+Interactive Lesson
+Content
+Interactive Lesson
+Changing the Box Model
+Interactive Lesson
+PRO
+PRO
+The Box Model
+Multiple Choice Quiz
+
+7
+CSS Positioning
+Layout
+Interactive Lesson
+PRO
+PRO
+CSS Positioning
+Multiple Choice Quiz
+
+8
+Images
+Adding Images
+Interactive Lesson
+PRO
+PRO
+CSS Images
+Multiple Choice Quiz
+
+9
+HTML Tables
+Tables
+Interactive Lesson
+
+
+
+
+
